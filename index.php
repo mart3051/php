@@ -1,5 +1,5 @@
 <?php
 
-echo "OpenShift Origin test from ".gethostname()
+echo "Deployment test from ".gethostname()
 
 ?>
