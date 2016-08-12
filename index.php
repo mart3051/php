@@ -1,5 +1,5 @@
 <?php
 
-echo "Deployment test from ".gethostname()
+echo "webhook test from ".gethostname()
 
 ?>
