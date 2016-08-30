@@ -1,5 +1,5 @@
 <?php
 
-echo "webhook test from ".gethostname()
+echo "webhook test OpenShift from ".gethostname()
 
 ?>
