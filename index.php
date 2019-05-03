@@ -1,5 +1,5 @@
 <?php
 
-echo "From POD".gethostname()
+echo "From POD =".gethostname()
 
 ?>
